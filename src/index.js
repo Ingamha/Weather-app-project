@@ -85,7 +85,7 @@ function displayForecast(response) {
         day.temperature.minimum
       )}º</div>
       </div>
-    '</div>
+    </div>
     `;
     }
   });
